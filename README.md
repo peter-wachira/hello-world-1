@@ -12,7 +12,7 @@ To start using this project use the following commands:
 - `cd hello-world`
 - `atom .`
 
-## License info
+## License info      
 MIT License
 
 Copyright (c) 2018 Moringa School
